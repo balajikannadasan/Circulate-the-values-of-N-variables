@@ -33,4 +33,4 @@ def circulate():
 ![OUTPUT1](/output.png)
 
 ## Result:
-Thus to circulate the n values variables using function concept are successfully executed
+Thus the python program to circulate the  values of n variables using function concept are successfully executed
